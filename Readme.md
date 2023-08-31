@@ -1,6 +1,7 @@
 # NotesWall Design
 
-This project involves Designing the NotesWall webpage to give it a unique and modern look while preserving the functionality of adding and deleting notes.
+This project involves Designing the NotesWall webpage 
+The NotesWall webpage allows users to add and delete notes. 
 
 ## Project Overview
 
@@ -30,5 +31,5 @@ The NotesWall webpage allows users to add and delete notes.
 
 ## Author
 
-- [Your Name](https://www.linkedin.com/in/niraj-patil-51a76a177/)
+- [Niraj Patil](https://www.linkedin.com/in/niraj-patil-51a76a177/)
 
